@@ -41,6 +41,18 @@ AfterVisitAI is built on four proprietary components that work together to ensur
 
 ## 🖼️ Screenshots (Synthetic, Non-PHI)
 
+![Home Screen](assets/screenshots/Home-AVA.png)
+*Main dashboard with the 3-step flow — Connect → Review → AfterVisit™ Summary.*
+
+![FHIR Sandbox Connection](assets/screenshots/FHIR-AVA.png)
+*SMART-on-FHIR style connection using **synthetic patient data** (no PHI).*
+
+![Patient Summary](assets/screenshots/summaries-AVA.png)
+*Example of an AfterVisit™ Summary generated from synthetic patient data — clear, cited, and easy to follow.*
+
+![Synthetic Patient Info](assets/screenshots/info-AVA.png)
+*Structured **synthetic patient profile** used for demo testing — fully HIPAA-safe.*
+
 
 ---
 
