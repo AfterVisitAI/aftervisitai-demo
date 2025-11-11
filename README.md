@@ -66,7 +66,7 @@ AfterVisitAI is built on four proprietary components that work together to ensur
 
 ## 📬 Contact
 
-**Founder & CEO:** Dr. Yasamin Habibi — [ava@aftervisitai.com](mailto:ava@aftervisitai.com)  
+**Founder & CEO:** Yasamin Habibi. MD — [ava@aftervisitai.com](mailto:ava@aftervisitai.com)  
 **Company:** AfterVisitAI, Inc. — *The Language of Healing™*  
 
 > *A clear mind leads a trustworthy mission.*
