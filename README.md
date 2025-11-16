@@ -22,10 +22,10 @@ This repository offers a **safe, high-level overview** of our MVP demo:
 
 AfterVisitAI is built on four proprietary components that work together to ensure clarity, accuracy, empathy, and safety:
 
-- **ClarityCore™** — transforms medical data into plain-language insights  
-- **ProofWeave™** — anchors every statement to trusted scientific evidence  
-- **HumanSense™** — ensures tone, empathy, and patient-readable language  
-- **TrustLoop™** — provides safety, transparency, and human-in-the-loop governance  
+- **ClarityCore™** 
+- **ProofWeave™**  
+- **HumanSense™** 
+- **TrustLoop™**  
 
 > The specific algorithms, prompts, and data flows powering these systems are confidential and not shared publicly.
 
